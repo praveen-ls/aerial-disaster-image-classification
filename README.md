@@ -112,11 +112,42 @@ Evaluation emphasized **F1-score** due to class imbalance.
 
 ## 📈 Visual Results
 
-> *(Add plots here if uploading notebooks)*
-
 * Confusion matrices
+
+  __Resnet Confusion Matrix__
+  <figure>
+  <img width="784" height="712" alt="description" src="https://github.com/user-attachments/assets/4922b704-6e68-41d6-8593-97e642c28f41" />
+  </figure>
+
+
+  __CNN confusion matrix__
+  <figure>
+  <img width="784" height="712" alt="description" src="https://github.com/user-attachments/assets/16912b6a-9293-4f89-8407-1cbcc69bd18f" />
+</figure>
+
 * ROC curves
+  
+  __Resnet ROC curve__
+  
+  <img width="852" height="704" alt="image" src="https://github.com/user-attachments/assets/f306135f-5a62-4afe-8f2a-c0624317d4bb" />
+
+  
+  __CNN ROC Curve__
+  
+  <img width="848" height="701" alt="image" src="https://github.com/user-attachments/assets/b4bebf7f-cea8-46ea-8fe1-749803066c3e" />
+
+  
+     
+
+
 * Saliency map visualizations
+  
+ <img width="547" height="623" alt="image" src="https://github.com/user-attachments/assets/117cce63-e404-4b69-9f26-aa6ecd4f4845" />
+
+ <img width="548" height="622" alt="image" src="https://github.com/user-attachments/assets/41f4a674-c7df-47be-be67-1b7a75825326" />
+
+ <img width="544" height="622" alt="image" src="https://github.com/user-attachments/assets/9549a728-f05b-481e-a4e4-551f67e2c3ff" />
+
 
 ---
 
