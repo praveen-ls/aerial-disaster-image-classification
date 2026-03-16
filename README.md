@@ -212,7 +212,7 @@ python saliency_maps.py
 
 * **Praveen Lakshman** ([@praveen-ls](https://github.com/praveen-ls))
 * Achuth Reddy Bangaru ([@achuthreddy-16](https://github.com/achuthreddy-16))
-* Aneesh Gundeti ([@Aneeshg02](https://github.com/Aneeshg02)
+* Aneesh Gundeti ([@Aneeshg02](https://github.com/Aneeshg02))
 * Manish Krishna Nalluru
 
 University of Alabama at Birmingham
